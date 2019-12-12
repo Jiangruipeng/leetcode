@@ -60,6 +60,8 @@ class Solution {
 
     public static void main(String[] args){
         //int[] testData = {0,0,1,1,1,2,2,3,3,4};
+        int i = Integer.MAX_VALUE;
+        System.out.println(i +1);
         int[] testData = {-2, 1, -5, 6};
 
         Solution solution = new Solution();
